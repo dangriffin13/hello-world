@@ -1,2 +1,2 @@
 # hello-world
-Generic get started repository
+Created as part of the tutorial
